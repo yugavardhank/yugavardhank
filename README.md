@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
   </a>
 </p>
+
 ---
 
 ## 🧠 About Me
@@ -51,14 +52,15 @@ Soft Skills: Leadership, Communication, Critical Thinking
 
 ---
 
-### ✅ 6. **GitHub Stats & Streak**
-
-## 📈 GitHub Stats
+## 📈 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yugavardhank&theme=react&hide_border=true" />
 </p>
 
+---
+
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yugavardhank&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugavardhank&layout=compact&theme=tokyonight" />
